@@ -1,10 +1,10 @@
 # Image Processing
 Image processing is a field of study that involves the manipulation of images to enhance their quality, extract useful information, or facilitate subsequent analysis. It encompasses a wide range of techniques and algorithms aimed at modifying or analyzing images in various domains, including photography, medical imaging, satellite imagery, and more
 
-## Image Acquisition: 
+### Image Acquisition: 
 The process of obtaining digital images from various sources such as cameras, scanners, satellites, or medical imaging devices.
 
-## Image Enhancement: 
+### Image Enhancement: 
 Techniques to improve the visual quality of images by adjusting brightness, contrast, sharpness, and reducing noise. Common methods include histogram equalization, contrast stretching, and noise filtering.
 
 ### Image Restoration: 
